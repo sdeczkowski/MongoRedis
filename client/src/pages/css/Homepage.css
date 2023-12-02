@@ -1,0 +1,16 @@
+.home__bg{
+	height: 93vh;
+	background-position: center;
+	background-size: cover;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+#tsparticles{
+	height: 92vh;
+}
+
+.home-message-icon{
+	margin-left: 10px;
+	display: inline-block;
+}

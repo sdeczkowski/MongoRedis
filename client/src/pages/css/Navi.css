@@ -1,0 +1,19 @@
+#basic-nav-dropdown {
+  color: #ffffff;
+}
+
+.nav-item .dropdown-menu {
+  background: #272727;
+}
+
+.nav-item .dropdown-item {
+  color: #ffffff;
+}
+
+.nav-item .dropdown-item:hover {
+  background: #f0ad4e;
+}
+
+.navi__bg{
+    background: #131313;
+}

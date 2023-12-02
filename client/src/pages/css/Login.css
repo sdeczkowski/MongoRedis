@@ -1,0 +1,15 @@
+.login__bg{
+	height: 93vh;
+	background-position: center;
+	background-size: cover;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.form__bg{
+    width: 80%;
+    margin-left: 10px;
+}
+
+#tsparticles{
+	width: 92vh;
+}
